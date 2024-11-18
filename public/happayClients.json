@@ -1,0 +1,39 @@
+[
+    {
+      "reviewId": 1,
+      "name": "John Doe",
+      "userImg": "https://randomuser.me/api/portraits/men/1.jpg",
+      "review": "The service was exceptional, and the staff was very friendly and professional!"
+    },
+    {
+      "reviewId": 2,
+      "name": "Jane Smith",
+      "userImg": "https://randomuser.me/api/portraits/women/2.jpg",
+      "review": "Highly satisfied with the treatment. My teeth have never looked this good!"
+    },
+    {
+      "reviewId": 3,
+      "name": "Michael Johnson",
+      "userImg": "https://randomuser.me/api/portraits/men/3.jpg",
+      "review": "A wonderful experience. The team was knowledgeable and very patient with my questions."
+    },
+    {
+      "reviewId": 4,
+      "name": "Emily Davis",
+      "userImg": "https://randomuser.me/api/portraits/women/4.jpg",
+      "review": "Affordable pricing and excellent care. I highly recommend them!"
+    },
+    {
+      "reviewId": 5,
+      "name": "Chris Lee",
+      "userImg": "https://randomuser.me/api/portraits/men/5.jpg",
+      "review": "State-of-the-art facilities and expert professionals. Truly a top-notch clinic."
+    },
+    {
+      "reviewId": 6,
+      "name": "Sophia Brown",
+      "userImg": "https://randomuser.me/api/portraits/women/6.jpg",
+      "review": "Amazing experience! The results exceeded my expectations. Thank you!"
+    }
+  ]
+  

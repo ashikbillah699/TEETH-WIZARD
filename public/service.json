@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "treatment": "Teeth Whitening",
+    "image": "https://images.unsplash.com/photo-1510915228340-29c85a43dcfe",
+    "description": "A cosmetic procedure to make your teeth brighter and whiter.",
+    "cost": 120
+  },
+  {
+    "id": 2,
+    "treatment": "Dental Implants",
+    "image": "https://plus.unsplash.com/premium_photo-1661775741361-3b68b05900ee?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZGVudGFsJTIwaW1wbGFudHN8ZW58MHx8MHx8fDA%3D",
+    "description": "Permanent replacements for missing teeth that look and function like real teeth.",
+    "cost": 1500
+  },
+  {
+    "id": 3,
+    "treatment": "Orthodontics",
+    "image": "https://media.istockphoto.com/id/653975728/photo/closeup-of-beautiful-girl-with-dental-braces-check-up.jpg?s=612x612&w=0&k=20&c=8HY0dQq6IuVYSK5wuRDq9WNBRAT_M7lNqNHoXjD5ENo=",
+    "description": "Braces and aligners to straighten teeth and correct bite issues.",
+    "cost": 3000
+  },
+  {
+    "id": 4,
+    "treatment": "Root Canal",
+    "image": "https://salinassmiles.com/services/root-canals/cover.webp",
+    "description": "A procedure to remove infection from inside a tooth and seal it to prevent further issues.",
+    "cost": 800
+  },
+  {
+    "id": 5,
+    "treatment": "Dental Cleaning",
+    "image": "https://media.istockphoto.com/id/471524152/photo/treatment-of-the-tooth-the-dentist-cleans-loss.jpg?s=612x612&w=0&k=20&c=Fu0HtIG0I_q3GGJVbiM7Yd3AX3_kXVarHSYEp7vJggI=",
+    "description": "A professional cleaning to remove plaque and tartar for a healthier smile.",
+    "cost": 100
+  },
+  {
+    "id": 6,
+    "treatment": "Tooth Extraction",
+    "image": "https://thumbs.dreamstime.com/b/dental-model-used-to-demonstration-tooth-extraction-doctors-blue-background-97787828.jpg",
+    "description": "A quick and safe removal of damaged or impacted teeth.",
+    "cost": 200
+  },
+  {
+    "id": 7,
+    "treatment": "Gum Treatment",
+    "image": "https://smylexl.com/wp-content/uploads/2022/06/Gum-Treatment.jpg",
+    "description": "Treatment for gum diseases like gingivitis or periodontitis to restore gum health.",
+    "cost": 400
+  },
+  {
+    "id": 8,
+    "treatment": "Cosmetic Dentistry",
+    "image": "https://media.istockphoto.com/id/1147579303/photo/healthcare-and-medicine-concept.jpg?s=612x612&w=0&k=20&c=vWozTTBHT4sVLPGZm78BCwUduaTHclJ56OM2PB7iAFE=",
+    "description": "Enhance the aesthetics of your smile with veneers, bonding, or reshaping.",
+    "cost": 2500
+  }
+]
